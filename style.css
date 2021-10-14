@@ -5,7 +5,7 @@ body {
 
 h1 {
   line-height: 1;
-  color: brown;
+  color: maroon;
   font-size: 42px;
   font-family: Arial, sans-sarif;
 }
@@ -16,46 +16,46 @@ h1 {
 
 h3 {
   line-height:;
-  color: brown;
+  color: maroon;
   font-size: 24px;
   font-family: Arial, sans-sarif;
 }
 
 h2 {
   line-height: 1;
-  color: brown;
+  color: maroon;
   font-size: 32px;
   font-family: Arial, sans-sarif;
 }
 
 h4 {
    line-height: .3;
-  color: brown;
+  color: maroon;
   font-size: 16px;
   font-family: Arial, sans-sarif;
 }
 
 p {
-  color: brown;
+  color: maroon;
 }
 
 ul {
-  color: brown;
+  color: maroon;
 }
 
 .prof-header {
-  border-top: 1px solid brown;
-  border-bottom: 1px solid brown;
+  border-top: 1px solid maroon;
+  border-bottom: 1px solid maroon;
 }
 
 .exp-header {
-  border-top: 1px solid brown;
-  border-bottom: 1px solid brown;
+  border-top: 1px solid maroon;
+  border-bottom: 1px solid maroon;
 }
 
 .edu-header {
-  border-top: 1px solid brown;
-  border-bottom: 1px solid brown;
+  border-top: 1px solid maroon;
+  border-bottom: 1px solid maroon;
 }
 
 
